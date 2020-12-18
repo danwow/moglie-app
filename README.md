@@ -10,7 +10,7 @@ Made with Android Studio, exploring the features: Constraint Layout, XML structu
 
 Developed by me for an university project.
 
-### Check out the demonstration video:
+### Click in the image below and check out the demonstration video:
 
 [![Vídeo demonstrativo do app MOGLIE](http://img.youtube.com/vi/lYeP0P-eVu0/0.jpg)](http://www.youtube.com/watch?v=lYeP0P-eVu0 "Vídeo demonstrativo do app MOGLIE")
 
