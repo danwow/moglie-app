@@ -1,0 +1,46 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#DEF05E5A</item>
+        <item name="colorPrimaryDark">#ED3F3B</item>
+        <item name="colorAccent">#00B0F0</item>
+    </style>
+
+    <!-- Tema aplicado em Glicemia !-->
+    <style name="glicemiaTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="colorPrimary">@color/colorPrimaryGlicemia</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkGlicemia</item>
+        <item name="colorAccent">@color/colorAccentGlicemia</item>
+    </style>
+
+    <!-- Tema aplicado em Medicamento !-->
+    <style name="medicamentoTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="colorPrimary">@color/colorPrimaryMedicamento</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkMedicamento</item>
+        <item name="colorAccent">@color/colorAccentMedicamento</item>
+    </style>
+
+    <!-- Tema aplicado em Refeição !-->
+    <style name="refeicaoTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="colorPrimary">@color/colorPrimaryRefeicao</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkRefeicao</item>
+        <item name="colorAccent">@color/colorAccentRefeicao</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#DEF05E5A</color>
+    <color name="colorPrimaryDark">#ED3F3B</color>
+    <color name="colorAccent">#00B0F0</color>
+
+    <!-- Cores Medicamentos !-->
+    <color name="colorPrimaryMedicamento">#00D39E</color>
+    <color name="colorPrimaryDarkMedicamento">#02A17A</color>
+    <color name="colorAccentMedicamento">#00D39E</color>
+
+    <!-- Cores Glicemia !-->
+    <color name="colorPrimaryGlicemia">#E8FF7D36</color>
+    <color name="colorPrimaryDarkGlicemia">#FD630F</color>
+    <color name="colorAccentGlicemia">#E8FF7D36</color>
+
+    <!-- Cores Refeição !-->
+    <color name="colorPrimaryRefeicao">#DE914EFF</color>
+    <color name="colorPrimaryDarkRefeicao">#DE6609FF</color>
+    <color name="colorAccentRefeicao">#DE914EFF</color>
+
+
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "612013833777",
+    "project_id": "app-moglie",
+    "storage_bucket": "app-moglie.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612013833777:android:1a0b0127e921d9e1fb1f10",
+        "android_client_info": {
+          "package_name": "com.example.moglie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612013833777-qigbqgch94jh4pdv3r6nn7itmhnhel2c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.moglie",
+            "certificate_hash": "d04e80c3cad30b4c53d9db3431e336fb0aa2e04b"
+          }
+        },
+        {
+          "client_id": "612013833777-64krhr2lkoio04nqts8irbjp4jkbelbb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU-bWDZtw5TsmmaRuB9FocTilEYmDxVTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612013833777-64krhr2lkoio04nqts8irbjp4jkbelbb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
